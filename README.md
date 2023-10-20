@@ -29,4 +29,6 @@ In milestone_3.py, we refactored the code into functions so that it is more unde
 
 In milestone_4.py, we created the class Hangman and introduced attributes such as: num_lives, word_guessed, num_letters, list_of_guesses. As the user guesses letter, we replace the letters in word_guessed if correct or we take away a life from num_lives.
 
+In milestone_5.py, we created the function play_game() to create an instance of the Hangman game. In this function, we set the instructions on how to win/lose the game. If the num_lives equal 0, they lose. If the user has guessed all the letters, num_letters equals 0 and then the user wins.
+
 # License information
