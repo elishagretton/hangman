@@ -27,4 +27,6 @@ In milestone_2.py, we learned how to generate a random word and then ask for an 
 
 In milestone_3.py, we refactored the code into functions so that it is more understandable. We also learned how to do a continuous while loop till a condition is satisifed and check the validity of the input smoothly.
 
+In milestone_4.py, we created the class Hangman and introduced attributes such as: num_lives, word_guessed, num_letters, list_of_guesses. As the user guesses letter, we replace the letters in word_guessed if correct or we take away a life from num_lives.
+
 # License information
