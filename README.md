@@ -1,4 +1,30 @@
 # Hangman
+
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
+
+I have programmed this game as part of the Software Engineering bootcamp at AiCore.
+
+With this project, I have learned:
+
+- How to build functions to make my code more understandable
+- How to refactor my code and use easy-to-understand variable and function names
+- How to push new changes to this repository
+
+# Installation
+
+To install this project, please clone this repository and run the hangman_Template.py file.
+
+# Usage
+
+This project can be used to play hangman and learn Python fundamentals.
+
+# File structure of the project
+In the milestones folder, there is a python file for each milestone of the AiCore bootcamp walkthrough.
+
+In milestone_2.py, we learned how to generate a random word and then ask for an input. This input had to be alphabetical and a simple character.
+
+In milestone_3.py, we refactored the code into functions so that it is more understandable. We also learned how to do a continuous while loop till a condition is satisifed and check the validity of the input smoothly.
+
+# License information
