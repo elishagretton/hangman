@@ -8,20 +8,28 @@ I have programmed this game as part of the Software Engineering bootcamp at AiCo
 
 With this project, I have learned:
 
-- How to build functions to make my code more understandable
-- How to refactor my code and use easy-to-understand variable and function names
-- How to push new changes to this repository
+- How to create the class Hangman
+- How to organise my class into functions like check_letter and ask_letter to make my code easy to understand
+- How to use an instance of the Hangman class to create the game
+- How to create a README.md file
+- How to write docstrings
+- And finally, I have learned how to push changes to GitHub!
 
 # Installation
 
-To install this project, please clone this repository and run the hangman_Template.py file.
+To install this project, please clone this repository and run the hangman_Template.py file to play the game.
 
 # Usage
 
-This project can be used to play hangman and learn Python fundamentals.
+To use this project, run the hangman_Template.py.
+
+The game will prompt you to guess letters. Keep on guessing till you run out of lives, or till you guess the word right!
 
 # File structure of the project
-In the milestones folder, there is a python file for each milestone of the AiCore bootcamp walkthrough.
+
+To view and play the final version of the game, please go to the hangman folder and run the hangman_Template.py file. This puts together all of the skills learned from the Milestone Mini Projects from the AiCore Software Engineering Bootcamp.
+
+To view the milestones, go to the milestones folder.
 
 In milestone_2.py, we learned how to generate a random word and then ask for an input. This input had to be alphabetical and a simple character.
 
@@ -31,4 +39,8 @@ In milestone_4.py, we created the class Hangman and introduced attributes such a
 
 In milestone_5.py, we created the function play_game() to create an instance of the Hangman game. In this function, we set the instructions on how to win/lose the game. If the num_lives equal 0, they lose. If the user has guessed all the letters, num_letters equals 0 and then the user wins.
 
+The final hangman_Template.py file is an improved version of milestone_5.py. It has more clear docstrings and better function names.
+
 # License information
+
+This projected is licensed by the MIT license. Please go to LICENSE.txt for more information.
